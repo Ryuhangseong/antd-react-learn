@@ -1,4 +1,5 @@
 import GlobalFooter from './GlobalFooter'
-import ScrollBar from './ScrollBar'
+import GlobalHeader from './GlobalHeader'
+// import ScrollBar from './ScrollBar'
 
-export { GlobalFooter, ScrollBar }
+export { GlobalFooter, GlobalHeader }
